@@ -8,3 +8,5 @@
  __Essa linha foi adicionada para testar Fork e Pull Requests.__
 
   __Essa linha é o primeiro Commit do meu teste de navegação no histórico do versionamento__
+
+  __O teste está completo. A anomalia adicionada no segundo commit foi removida através da reversão ao estado do README.md no primeiro commit._
